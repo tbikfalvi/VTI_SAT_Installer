@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/vtisatinstaller.ico</file>
+        <file>images/preferences.png</file>
+        <file>images/exit.png</file>
+        <file>images/directory.png</file>
+        <file>images/install.png</file>
+    </qresource>
+</RCC>
